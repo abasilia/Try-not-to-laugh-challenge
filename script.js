@@ -13,3 +13,4 @@ const generateJoke=()=>{
 generateJoke();
 
 jokeBtn.addEventListener("click", generateJoke);
+
